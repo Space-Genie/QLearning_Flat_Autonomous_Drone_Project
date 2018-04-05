@@ -1,4 +1,4 @@
-# projectcodeturnin
+# Qlearning POMDP Project Code Turn In
 Matlab Code for AA228 
 
 Open finalprojectmainscript.m
